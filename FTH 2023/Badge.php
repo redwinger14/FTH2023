@@ -1,0 +1,59 @@
+<?php
+$title = "Badge";
+$file = "Badge.php";
+$description = "Badge";
+$date = "March 17, 2023";
+$banner = "Badge";
+?>
+
+<!DOCTYPE html>
+<div class="page">
+    <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <title>Museum Identification Badge</title>
+            <link rel="stylesheet" href="css/style.css">
+        </head>
+        <body>
+            <table>
+                <tr>
+                    <table>
+                            <!--Row 1-->
+                            <tr>
+                                <!--Column 1-->
+                                <td rowspan="3">
+                                    <a href="https://queerbritain.org.uk/">
+                                        <img src="img/logo.jpg" alt="Queer Britain Museum Logo" height="125" width="125">
+                                    </a>
+                                </td>
+                                <!--Column 2-->
+                                <th class="leftalign">
+                                    <strong>Position/Title</strong>
+                                </th>
+                            </tr>
+
+                            <!--Row 2-->
+                            <tr>
+                                <!--Column 1-->
+                                <!--Column 2-->
+                                <td class="leftalign">
+                                    <strong>Name of Person</strong>
+                                </td>
+                            </tr>
+
+                            <!--Row 3-->
+                            <tr>
+                                <!--Column 1-->
+                                <!--Column 2-->
+                                <td class="leftalign">
+                                    Pronoun/Pronoun/Pronoun
+                                </td>
+                            </tr>
+                                <tr>
+                                    <td colspan="3" ></td>
+                                </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </body>

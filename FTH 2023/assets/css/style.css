@@ -1,0 +1,26 @@
+/*  Name: Sam Subram
+    Date: March 17, 2023
+    File: style.css
+    Description: CSS document for FTH 2023
+*/
+
+/* page*/
+.page {
+    width: 320px;
+    height: 240px;
+    background: rgb(202, 8, 8);
+}
+
+/* body*/
+body{
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+/* Tables*/
+.leftalign {
+    text-align: left;
+    padding-left: 10px;
+}
